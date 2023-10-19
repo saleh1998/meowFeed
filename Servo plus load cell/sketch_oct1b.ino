@@ -9,8 +9,8 @@
 #include <ESP32Servo.h>
 
 char auth[] = BLYNK_AUTH_TOKEN;
-char ssid[] = "Moaad-2.4G";
-char pass[] = "11qazxsw2";
+char ssid[] = "";
+char pass[] = "";
 
 const int HX711_dout = 4;
 const int HX711_sck = 5;
