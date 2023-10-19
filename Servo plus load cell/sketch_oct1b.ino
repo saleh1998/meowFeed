@@ -9,6 +9,7 @@
 #include <ESP32Servo.h>
 
 char auth[] = BLYNK_AUTH_TOKEN;
+//add your network detalis 
 char ssid[] = "";
 char pass[] = "";
 
