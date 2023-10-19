@@ -1,2 +1,2 @@
- #define SSID1 "Moaad-2.4G"
- #define PWD1 "11qazxsw2"
+ #define SSID1 "YOUR-NETWORD-NAME"
+ #define PWD1 "YOUR-PASSWORD"
