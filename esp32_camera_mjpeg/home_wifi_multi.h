@@ -1,2 +1,2 @@
- #define SSID1 "YOUR-NETWORD-NAME"
+ #define SSID1 "YOUR-NETWORk-NAME"
  #define PWD1 "YOUR-PASSWORD"
