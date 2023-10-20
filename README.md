@@ -1,7 +1,4 @@
 # meowFeed
-
-https://t.ly/Dfmmp - meow feed promo video .
-
 Meow Feed is a smart cat feeder designed for the modern pet owner. A smart food dispenser that can be controlled with an app, With just a tap on your smartphone, you can feed your cat from anywhere in the world.
 
 It comes equipped with a camera, allowing you to witness those adorable feeding moments live.
@@ -13,3 +10,5 @@ technical stuff:
 HW : this project was made using an esp32 board, 1 hx711 , 100g load cell , 360 servo motor , esp32-CAM and 3d printed model.
 
 SW :  the android app was made in Android Studio, used blynk API to send commands to the esp32 board over the cloud, ngrok to make local camera ip public (only valid for 8 hours), and many dependencies. 
+
+for more info look at this promo video https://t.ly/Dfmmp
