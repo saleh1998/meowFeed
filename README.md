@@ -1,5 +1,5 @@
 # meowFeed
-Meow Feed is a smart cat feeder designed for the modern pet owner. With just a tap on your smartphone, you can feed your cat from anywhere in the world.
+Meow Feed is a smart cat feeder designed for the modern pet owner. A smart food dispenser that can be controlled with an app, With just a tap on your smartphone, you can feed your cat from anywhere in the world.
 It's not just about feeding your cat, it's about being present, even when you're miles away.
 
 It comes equipped with a camera, allowing you to witness those adorable feeding moments live. So, even when you're away, you're still part of their routine, still part of their lives.
