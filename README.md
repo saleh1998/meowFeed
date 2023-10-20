@@ -10,6 +10,6 @@ You can monitor how much your cat eats per day, per month, and the total weight.
 
 technical stuff: 
 
-HW : this project was made using an esp32 board, 1 hx711 , 100g load cell , 360 servo motor , and 3d printed model.
+HW : this project was made using an esp32 board, 1 hx711 , 100g load cell , 360 servo motor , esp32-CAM and 3d printed model.
 
 SW :  the android app was made in Android Studio, used blynk API to send commands to the esp32 board over the cloud, ngrok to make local camera ip public (only valid for 8 hours), and many dependencies. 
