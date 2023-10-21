@@ -12,4 +12,4 @@ HW : this project was made using an esp32 board, 1 hx711 , 100g load cell , 360 
 SW :  the android app was made in Android Studio, used blynk API to send commands to the esp32 board over the cloud, ngrok to make local camera ip public (only valid for 8 hours), and many dependencies. 
 
 for more info look at [this promo video](https://t.ly/XDmfO) 
-for setting your own meowFeed please look at the [wiki](https://github.com/Moaad98/meowFeed/wiki/Setting-your-own-MeowFeed)
+and for setting your own meowFeed please look at the [wiki](https://github.com/Moaad98/meowFeed/wiki/Setting-your-own-MeowFeed)
