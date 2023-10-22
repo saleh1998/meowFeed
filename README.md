@@ -13,3 +13,5 @@ SW :  the android app was made in Android Studio, used blynk API to send command
 
 for more info look at [this promo video](https://t.ly/XDmfO) 
 and for setting your own meowFeed please look at the [wiki](https://github.com/Moaad98/meowFeed/wiki/Setting-your-own-MeowFeed)
+
+[Summary for project Supervisor](https://github.com/Moaad98/meowFeed/wiki/Summary-for-Project's-Supervisor)
